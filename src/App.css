@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+}
+.swiper_slider .swiper .swiper-pagination {
+  position: relative;
+  bottom: -5px;
+}
+.swiper_slider
+  .swiper
+  .swiper-pagination
+  .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #ffa739 !important;
+}
